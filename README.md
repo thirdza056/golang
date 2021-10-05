@@ -33,4 +33,3 @@ git clone https://github.com/thirdza056/golang
 
 go build new.go
 
-./new a1
