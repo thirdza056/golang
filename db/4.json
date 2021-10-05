@@ -1,79 +1,39 @@
 {
-
-	"creator": [	    "ใส่uid"
-
+	"creator": [	    
+            "ใส่uid"
 	],
-
 	"sname": "x",
-
 	"owner": [
-
 	    "ใส่mid"
-
 	],
-
 	"master": [
-
 	    "u1277389sjsjsj"
-
 	],
-
 	"admins": [],
-
 	"squad": [
-
 	    "u12656gshsj"
-
 	],
-
 	"bots": [],
-
 	"sq": [
-
 	    "u92872819djdjdjsjsj"
-
 	],
-
 	"antijs": [],
-
 	"proqr": [],
-
 	"proinvite": [],
-
 	"prokick": [],
-
 	"procancel": [],
-
 	"fastcan": true,
-
 	"backupmem": false,
-
 	"modebackup": true,
-
 	"modeajs": false,
-
 	"autobl": true,
-
 	"nukick": false,
-
 	"nucancel": false,
-
 	"byemem": false,
-
 	"silent": false,
-
 	"team": "xxxxxxx",
-
 	"kickban": true, 
-
 	"limiter": [
-
 	    "u92872819djdjdjsjsj"
-
 	]
-
 }
-
-	
-
-	
