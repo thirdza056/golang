@@ -25,4 +25,4 @@ pt-get install yarn && sudo apt-get install gcc g++ make
 
 
 1. apt install golang-go
-2. wget https://dl.google.com/go/go1.14.5.linux-amd64.tar.gz && sudo tar-xvf go1.14.5.linux-amd64.tar.gz
+2. wget https://dl.google.com/go/go1.14.5.linux-amd64.tar.gz && sudo tar -xvf go1.14.5.linux-amd64.tar.gz
