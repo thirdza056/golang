@@ -41,5 +41,5 @@ cd golang
 go build new.go
 
 
-ถ้าจะใช้ token อื่น ควรแก้ไข config
+
 
